@@ -30,13 +30,13 @@
     "@jupyterlab/notebook-extension": "^0.16.2",
     "@jupyterlab/rendermime-extension": "^0.10.2",
     "@jupyterlab/running-extension": "^0.16.2",
-    "@jupyterlab/settingeditor-extension": "^0.11.2",
+    "@jupyterlab/settingeditor-extension": "^3.0.0",
     "@jupyterlab/shortcuts-extension": "^0.16.2",
     "@jupyterlab/tabmanager-extension": "^0.16.2",
     "@jupyterlab/terminal-extension": "^0.16.2",
     "@jupyterlab/theme-dark-extension": "^0.16.2",
     "@jupyterlab/theme-light-extension": "^0.16.2",
-    "@jupyterlab/tooltip-extension": "^0.16.2",
+    "@jupyterlab/tooltip-extension": "^3.0.0",
     "es6-promise": "~4.1.1"
   },
   "devDependencies": {
