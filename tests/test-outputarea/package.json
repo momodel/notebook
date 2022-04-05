@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@jupyterlab/apputils": "^0.16.3",
-    "@jupyterlab/outputarea": "^0.16.2",
+    "@jupyterlab/outputarea": "^1.0.0",
     "@jupyterlab/rendermime": "^0.16.2",
     "@jupyterlab/services": "^2.0.2",
     "@phosphor/messaging": "^1.2.2",
