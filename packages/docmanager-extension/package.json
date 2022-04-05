@@ -32,8 +32,8 @@
   "dependencies": {
     "@jupyterlab/application": "^0.16.2",
     "@jupyterlab/apputils": "^0.16.3",
-    "@jupyterlab/coreutils": "^1.1.2",
-    "@jupyterlab/docmanager": "^0.16.2",
+    "@jupyterlab/coreutils": "^3.0.0",
+    "@jupyterlab/docmanager": "^1.0.0",
     "@jupyterlab/docregistry": "^0.16.2",
     "@jupyterlab/mainmenu": "^0.5.2",
     "@jupyterlab/services": "^2.0.2",
