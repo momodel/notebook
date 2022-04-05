@@ -29,8 +29,8 @@
     "watch": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/application": "^0.16.2",
-    "@jupyterlab/running": "^0.16.2"
+    "@jupyterlab/application": "^1.0.0",
+    "@jupyterlab/running": "^1.0.0"
   },
   "devDependencies": {
     "rimraf": "~2.6.2",
