@@ -33,7 +33,7 @@
     "@jupyterlab/apputils": "^0.16.3",
     "@jupyterlab/console": "^0.16.2",
     "@jupyterlab/inspector": "^0.16.2",
-    "@jupyterlab/notebook": "^0.16.2",
+    "@jupyterlab/notebook": "^3.0.0",
     "@phosphor/disposable": "^1.1.2"
   },
   "devDependencies": {
