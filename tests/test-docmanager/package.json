@@ -15,8 +15,8 @@
     "watch:src": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/coreutils": "^1.1.2",
-    "@jupyterlab/docmanager": "^0.16.2",
+    "@jupyterlab/coreutils": "^3.0.0",
+    "@jupyterlab/docmanager": "^1.0.0",
     "@jupyterlab/docregistry": "^0.16.2",
     "@jupyterlab/services": "^2.0.2",
     "@phosphor/messaging": "^1.2.2",
