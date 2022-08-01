@@ -28,7 +28,7 @@
     "watch": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/application": "^0.16.2",
+    "@jupyterlab/application": "^0.17.1",
     "@jupyterlab/coreutils": "^1.1.2",
     "@jupyterlab/rendermime": "^0.16.2",
     "@jupyterlab/rendermime-interfaces": "^1.0.9",
