@@ -30,7 +30,7 @@
     "watch": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/application": "^0.16.2",
+    "@jupyterlab/application": "^0.17.1",
     "@jupyterlab/coreutils": "^1.1.2",
     "@phosphor/commands": "^1.5.0",
     "@phosphor/coreutils": "^1.3.0",
