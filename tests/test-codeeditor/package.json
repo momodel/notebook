@@ -15,8 +15,8 @@
     "watch:src": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/codeeditor": "^0.16.1",
-    "@jupyterlab/codemirror": "^0.16.2",
+    "@jupyterlab/codeeditor": "^1.0.0",
+    "@jupyterlab/codemirror": "^3.0.9",
     "@jupyterlab/observables": "^1.0.9",
     "@phosphor/messaging": "^1.2.2",
     "@phosphor/widgets": "^1.6.0",
