@@ -30,11 +30,11 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^0.16.2",
-    "@jupyterlab/apputils": "^0.16.3",
+    "@jupyterlab/apputils": "^4.0.0",
     "@jupyterlab/launcher": "^0.16.2",
     "@jupyterlab/mainmenu": "^0.5.2",
     "@jupyterlab/services": "^2.0.2",
-    "@jupyterlab/terminal": "^0.16.2"
+    "@jupyterlab/terminal": "^4.0.0"
   },
   "devDependencies": {
     "rimraf": "~2.6.2",
