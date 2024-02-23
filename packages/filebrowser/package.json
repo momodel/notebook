@@ -32,7 +32,7 @@
   "dependencies": {
     "@jupyterlab/apputils": "^0.16.3",
     "@jupyterlab/coreutils": "^1.1.2",
-    "@jupyterlab/docmanager": "^0.16.2",
+    "@jupyterlab/docmanager": "^4.0.0",
     "@jupyterlab/docregistry": "^0.16.2",
     "@jupyterlab/services": "^2.0.2",
     "@phosphor/algorithm": "^1.1.2",
