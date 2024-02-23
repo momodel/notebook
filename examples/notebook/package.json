@@ -12,7 +12,7 @@
     "@jupyterlab/completer": "^0.16.2",
     "@jupyterlab/docmanager": "^0.16.2",
     "@jupyterlab/docregistry": "^0.16.2",
-    "@jupyterlab/notebook": "^0.16.2",
+    "@jupyterlab/notebook": "^4.0.0",
     "@jupyterlab/rendermime": "^0.16.2",
     "@jupyterlab/services": "^2.0.2",
     "@jupyterlab/theme-light-extension": "^0.16.2",
