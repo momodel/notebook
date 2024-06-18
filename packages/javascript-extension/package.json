@@ -29,7 +29,7 @@
     "watch": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/rendermime": "^0.16.2",
+    "@jupyterlab/rendermime": "^0.17.1",
     "@jupyterlab/rendermime-interfaces": "^1.0.9"
   },
   "devDependencies": {
