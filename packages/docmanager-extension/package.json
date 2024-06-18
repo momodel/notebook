@@ -33,10 +33,10 @@
     "@jupyterlab/application": "^0.16.2",
     "@jupyterlab/apputils": "^0.16.3",
     "@jupyterlab/coreutils": "^1.1.2",
-    "@jupyterlab/docmanager": "^0.16.2",
+    "@jupyterlab/docmanager": "^0.17.1",
     "@jupyterlab/docregistry": "^0.16.2",
-    "@jupyterlab/mainmenu": "^0.5.2",
-    "@jupyterlab/services": "^2.0.2",
+    "@jupyterlab/mainmenu": "^0.6.1",
+    "@jupyterlab/services": "^3.2.1",
     "@phosphor/disposable": "^1.1.2"
   },
   "devDependencies": {
