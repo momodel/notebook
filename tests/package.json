@@ -19,7 +19,7 @@
     "@jupyterlab/imageviewer": "^0.16.2",
     "@jupyterlab/inspector": "^0.16.2",
     "@jupyterlab/mainmenu": "^0.5.2",
-    "@jupyterlab/mathjax2-extension": "^0.4.2",
+    "@jupyterlab/mathjax2-extension": "^4.0.0",
     "@jupyterlab/notebook": "^0.16.2",
     "@jupyterlab/observables": "^1.0.9",
     "@jupyterlab/outputarea": "^0.16.2",
