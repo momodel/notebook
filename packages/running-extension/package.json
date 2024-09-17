@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "@jupyterlab/application": "^0.16.2",
-    "@jupyterlab/running": "^0.16.2"
+    "@jupyterlab/running": "^2.0.0"
   },
   "devDependencies": {
     "rimraf": "~2.6.2",
