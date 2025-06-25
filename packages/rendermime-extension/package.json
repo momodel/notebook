@@ -28,8 +28,8 @@
     "watch": "tsc -w --listEmittedFiles"
   },
   "dependencies": {
-    "@jupyterlab/application": "^0.16.2",
-    "@jupyterlab/rendermime": "^0.16.2"
+    "@jupyterlab/application": "^4.0.0",
+    "@jupyterlab/rendermime": "^4.0.0"
   },
   "devDependencies": {
     "rimraf": "~2.6.2",
